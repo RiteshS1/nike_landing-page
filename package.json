@@ -3,8 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
+ "scripts": {
+    "dev": "vite --port 3006 ",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
